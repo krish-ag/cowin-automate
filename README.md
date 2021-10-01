@@ -1,3 +1,5 @@
+## This Repo Accepts eligible Pull Requests For HacktoberFest 2021
+
 # Cowin Automate
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
